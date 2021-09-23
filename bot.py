@@ -10,7 +10,9 @@ import logging
 import random
 import urllib
 import keyboa
-from colorama import Fore, Back, Style
+import requests
+import telebot
+from colorama import Back, Fore, Style
 
 logging.basicConfig(format = u'%(levelname)-8s [%(asctime)s] %(message)s', level = logging.INFO, filename = u'mylog.log')
 
