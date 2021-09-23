@@ -7,7 +7,7 @@
 <br > Author: Beshudar так же известный как Rimuru
 <br > Ну вот и всё я хз что ещё писать)
 
-## Библеотеки для работы бота
+## Библиотеки для работы бота
 ```python
 from subprocess import check_output;
 import telebot;
