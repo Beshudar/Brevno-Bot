@@ -1,23 +1,21 @@
 # Brevno-Bot
 >Какова цель создания этого бота?
->>А просто так мне стал интересен этот язык программирования.
+>>Администрирование домашнего сервера Linux
 
 <br > Language: Python 3.8
-<br > Author: Beshudar так же известный как Rimuru
+<br > Author: Beshudar так же известный как Rimuru,ZERODEV
 <br > Ну вот и всё я хз что ещё писать)
 
 ## Библиотеки для работы бота
 ```python
-from subprocess import check_output;
-import telebot;
-import time;
-import platform;
-import os
-import requests
 import html
-import logging
+import os
+import platform
 import random
+import time
 import urllib
+from subprocess import check_output
 import keyboa
-from colorama import Fore, Back, S
+import requests
+import telebot
 ```
